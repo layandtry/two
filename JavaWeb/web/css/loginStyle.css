@@ -1,0 +1,65 @@
+.wrap{
+    height: 520px;
+    background: url("../image/three1.jpg") no-repeat top center;
+    padding-top: 50px;
+}
+.wrap .w-login{
+    width: 1200px;
+    height: 420px;
+    margin: auto;
+}
+.wrap .w-login .login{
+    width: 340px;
+    height: 420px;
+    background: #F5EAE9;
+    float: right;
+}
+.wrap .w-login .login form{
+    border-bottom: 1px dotted #cccccc;
+}
+.wrap .w-login .login form input.text{
+    width: 255px;
+    height: 40px;
+    border: 1px solid #cccccc;
+    margin: 25px 0 0 40px;
+    font-size: 16px;
+    text-indent: 3em;
+    background: url("../image/zhanghaoLogo4.PNG") no-repeat 0 -2px;
+}
+.wrap .w-login .login form input.text-1{
+    background: url("../image/password4.PNG") no-repeat 0 -2px;
+}
+.wrap .w-login .login form p{
+    margin: 25px 40px;
+}
+.wrap .w-login .login form p input{
+    vertical-align: bottom;
+}
+.wrap .w-login .login form p label{
+    vertical-align: bottom;
+}
+.wrap .w-login .login form a{
+    color: #666666;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.wrap .w-login .login form .btn{
+    width: 255px;
+    height: 44px;
+    background: #cd2934;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    margin: 0 0 25px 40px;
+    cursor: pointer;
+}
+.wrap .w-login .w-bottom{
+    margin: 30px 0 0 40px;
+    color: #000;
+    font-size: 14px;
+}
+.wrap .w-login .w-bottom a img{
+    cursor: pointer;/*cursor 光标*/
+    width: auto;
+    height: auto;
+}
