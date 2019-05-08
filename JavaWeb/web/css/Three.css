@@ -1,0 +1,38 @@
+/* CSS Document */
+body{margin:0;
+    border:0;
+    padding:0;}
+#one{
+    height:150px;
+    width:30%;
+    float:left;
+    background:#00FFFF;
+    overflow:auto;
+}
+#two{
+    height:150px;
+    width:40%;
+    background:#FFFF66;
+    overflow:auto;
+    margin-left:30%;
+}
+#three{
+    height:150px;
+    width:30%;
+    float:right;
+    background:#FF6666;
+    overflow:auto;
+}
+#right1{height:150px;
+    width:80%;
+    float:right;}
+#left1{height:150;
+    width:20%;
+    float:left;
+    overflow:auto;}
+#top1{height:100px;
+    background:red;}
+#bottom1{height:100px;
+    background:blue;}
+#bb{height:150px;
+    width:100%;}

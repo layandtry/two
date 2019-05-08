@@ -1,0 +1,31 @@
+/* CSS Document */
+
+body{
+    margin:0;
+    border:0;
+    padding:0;}
+#aa{height:200px;
+    width:50%;
+    margin:auto;}
+#one{height:200px;
+    width:25%;
+    float:left;
+    border:2px solid #cccccc;
+    background:#00FFF4;
+}
+#two{height:200px;
+    width:48%;
+    float:left;
+    background:#00FFF3;
+}
+#three{height:200px;
+    width:25%;
+    float:right;
+    border:2px solid #cccccc;
+    background:#00FFFF1;
+}
+#four{height:200px;
+    width:50%;
+    float:right;
+    background:#00FFF0;
+}

@@ -1,7 +1,8 @@
 .wrap{
     height: 520px;
-    background: url("../image/three1.jpg") no-repeat top center;
+    background: url("../image/background3.jpg") no-repeat top center;
     padding-top: 50px;
+    text-align: center;
 }
 .wrap .w-login{
     width: 1200px;

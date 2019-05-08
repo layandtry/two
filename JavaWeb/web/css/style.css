@@ -1,12 +1,17 @@
+body{
+    background: url("../image/background3.jpg");
+}
 .header_container{
     width: 100%;
     height: 40px;
-    background-color: seashell;
+    /*background-color: #308068;*/
 }
 .header_container ul li{
     display: inline-block;
     width: auto;
     padding: 8px 12px;
+    font-family: 微软雅黑;
+    font-size: 20px;
 }
 #i1{
     margin: 10px;/* 设置输入框上下左右，均距离10px*/
@@ -35,7 +40,7 @@ img{
     transition: all 2s;
 }
 .main_div{
-    width: 800px;
+    width: 100%;
     overflow: hidden;
     position: relative;
     top:10px;
@@ -59,7 +64,7 @@ img{
 .div_btn{
     float: left;
     border-radius: 100px;
-    background-color: aquamarine;
+    /*background-color: aquamarine;*/
     width: 60px;
     height: 10px;
     margin-left: 10px;
@@ -72,4 +77,11 @@ body{
     font:12px '微软雅黑';
     color: #666666;
 }
+a{
+    text-decoration:none;/*去除超链接的下划线*/
+}
+.main{
+    /*background-color: cadetblue;*/
+}
+
 

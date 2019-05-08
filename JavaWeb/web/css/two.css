@@ -1,0 +1,19 @@
+/* CSS Document */
+#one{height:200px;
+    width:20%;
+    float:left;
+    background:red;
+    overflow:auto;
+}
+#two{height:200px;
+    width:50%;
+    background:green;
+    margin-left:20%;
+    overflow:auto;
+}
+#three{height:200px;
+    width:30%;
+    float:right;
+    background:blue;
+    overflow:auto;
+}

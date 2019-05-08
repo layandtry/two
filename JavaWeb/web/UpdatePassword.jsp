@@ -12,6 +12,7 @@
     <link type="text/css" rel="stylesheet" href="css/UpdatePasswordStyle.css">
 </head>
 <body>
+    <h1>修改密码</h1>
 <form>
     *旧密码：
     <input id="i4" type="password"/>

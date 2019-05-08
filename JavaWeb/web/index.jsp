@@ -129,16 +129,27 @@
 </script>
 <div class="header_container">
   <ul>
-    <li><a href="index.jsp">首页</a></li>
-    <li><a href="html/News.html">学校通知</a></li>
-    <li><a>实时定位</a></li>
-    <li><a href="www.ucloudcam.cn">视频监控</a></li>
-    <li><a href="loginnew.jsp">登录</a></li>
+    <li><a href="index.jsp" style="color: #FFFFFF" >首页</a></li>
+    <li><a href="html/News.html" style="color: #FFFFFF">学校通知</a></li>
+      <li><a style="color: #FFFFFF">环境设施</a></li>
+    <li><a href="loginnew.jsp" style="color: #FFFFFF">登录</a></li>
+    <li><a href="Parents.jsp" style="color: #FFFFFF">家长</a></li>
+      <li><a href="html/teacher.html" style="color: #FFFFFF">老师</a></li>
+      <li><a href="administrator.jsp" style="color: #FFFFFF">管理员</a></li>
+
   </ul>
 </div>
-<div>
+<div class="main">
       <div class="left">
-          <h1>学校简介</h1>
+          <h1 style="color: #FFFFFF">学校简介</h1>
+          <h3 style="color: #FFFFFF">  大风车幼儿园是一家国内连锁的幼儿园，在国内拥有百家连锁店。
+              分布在全国一二线乃至三线城市内，广受学生家长的喜爱。
+                大风车幼儿园按照国内幼儿教育示范园标准配备全套高品质设施设备及软件建设，
+              在英语、艺术、运动等方面独具特色，
+              是国家重点科研课题 “ 中国儿童大美育 ” 实验基地。
+              大风车幼儿园拥有一批教学经验丰富的专业幼儿教师，
+              一定能为您的宝宝的健康成长打下扎实的基础。
+          </h3>
       </div>
       <div class="main_div">
           <%--这是轮播图上面左右移动的按钮--%>

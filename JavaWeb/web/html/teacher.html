@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>老师</title>
+    <meta charset="utf-8">
+    <style>
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            padding: 12px 16px;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+<h2>老师人员名单</h2>
+<p>将鼠标移动到指定元素上就能看到下拉菜单。</p>
+
+<div class="dropdown">
+    <span>专任教师</span>
+    <div class="dropdown-content">
+        <p><a href="zhangsanInformation.html">张三</a></p>
+        <p><a href="#">李四</a></p>
+        <p><a href="#">王五</a></p>
+    </div>
+    <span></span>
+</div>
+
+</body>
+</html>

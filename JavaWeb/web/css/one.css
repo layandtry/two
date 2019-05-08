@@ -1,0 +1,21 @@
+/* CSS Document */
+body{}
+#aa{height:200px;
+    width:666px;
+    margin:auto;}
+#one{height:200px;
+    width:100px;
+    float:left;
+    border:2px solid #cccccc;
+}
+#two{height:200px;
+    width:400px;
+    margin-left:108px;
+    border:2px solid #cccccc;
+    overflow:scroll;
+}
+#three{height:200px;
+    width:150px;
+    float:right;
+    border:2px solid #cccccc;
+}
